@@ -1,0 +1,1 @@
+C:\GitHub\Unity2DGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\4i2y233s\obj\armeabi-v7a
